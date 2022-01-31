@@ -16,4 +16,7 @@ I really do need a job.
 # Government Debt - North America Highlighted
 <iframe src="https://data.oecd.org/chart/6BmW" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6BmW" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2019</a></iframe>
 
+<div class="flourish-embed flourish-chart" data-src="visualisation/8567972"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+
 ## Final Projct
