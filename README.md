@@ -1,5 +1,5 @@
-# portfolio
-This is my public portfolio for TSWD at CMU
+# Madisone E. Morrow Portfolio
+This is my public portfolio for TSWD at CMU. There are many like it, but this is mine.
 
 # About Me
 I am a 2nd year Master of Arts Management student, with a concentration in Theatre Arts! I use she/her/hers pronouns, and hope to move to New York City after graduation. I'm originally from Oklahoma, and did my undergrad at the University of Mississippi. Since I am a COVID graduate in the field of the arts, I figured the best thing to do would be going back to school (i.e. spending money) instead of trying to get a job (i.e. making money.) I also am a titleholder in the Miss America program, and compete for the title of Miss Pennsylvania in June!
