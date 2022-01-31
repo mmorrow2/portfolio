@@ -13,6 +13,6 @@ I hope to learn how to use data visualization to help consumers understand dense
 I really do need a job.
 
 ## Visualization of Government Debt
-[Click Here For The Link](/governmentdebt)
+[Click Here For The Link](/governmentdebt.md)
 
 ## Final Projct
