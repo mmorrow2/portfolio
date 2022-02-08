@@ -13,6 +13,7 @@ I hope to learn how to use data visualization to help consumers understand dense
 I really do need a job.
 
 ## Visualization of Government Debt
+[Click here](/governmentdebt.md)
 # Government Debt - North America Highlighted
 <iframe src="https://data.oecd.org/chart/6Bn3" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6Bn3" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2019</a></iframe>
 This graph shows general government debt, specifically by looking at the debt-to-GDP ratio in percentages. The lower the ratio, the more likely a country is to be considered financially sustainable. 
