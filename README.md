@@ -39,3 +39,6 @@ var divElement = document.getElementById('viz1643830398505');
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
   vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
+
+## Assignment 4
+[Click here (/assignment4.md)]
