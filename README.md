@@ -17,3 +17,6 @@ I really do need a job.
 
 ## Assignment 4
 [Click here](/assignment4.md)
+
+## Final Project
+[Part I](/finalproject_part1.md)
