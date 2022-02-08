@@ -124,4 +124,4 @@ Unfortunately, I decided to go with a much simpler option, with a different narr
 
 This vizualization also made the idea clear on what the graph was about, and the labels are easy to understand. The color palette is consistent and clean, with high contrast. 
 
-[Back to Main Page](/portfolio.md)
+[Back to Main Page](/README.md)
