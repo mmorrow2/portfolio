@@ -1,5 +1,5 @@
-## Visualization of Government Debt
-# Government Debt - North America Highlighted
+# Visualization of Government Debt
+## Government Debt - North America Highlighted
 <iframe src="https://data.oecd.org/chart/6Bn3" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6Bn3" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2019</a></iframe>
 This graph shows general government debt, specifically by looking at the debt-to-GDP ratio in percentages. The lower the ratio, the more likely a country is to be considered financially sustainable. 
 
@@ -16,4 +16,4 @@ In the second vizualization, all of the data is being portrayed. This showcases 
 
 The last vizualization is trying to zero in on three countries in particular- those in North America, without looking at the larger picture. However, they are also looking at the OECD's average in relation to these three countries.
 
-[Back to main page](/readme.md)
+[Back to main page](/portfolio)
