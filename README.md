@@ -41,4 +41,4 @@ var divElement = document.getElementById('viz1643830398505');
 </script>
 
 ## Assignment 4
-[Click here (/assignment4.md)]
+[Click here](/assignment4.md)
