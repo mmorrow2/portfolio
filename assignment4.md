@@ -123,3 +123,5 @@ Unfortunately, I decided to go with a much simpler option, with a different narr
 <div class="flourish-embed flourish-scatter" data-src="visualisation/8626972"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 This vizualization also made the idea clear on what the graph was about, and the labels are easy to understand. The color palette is consistent and clean, with high contrast. 
+
+[Back to Main Page](/portfolio.md)
