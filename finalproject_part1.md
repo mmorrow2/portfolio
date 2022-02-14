@@ -44,6 +44,8 @@ I plan on using Shorthand for my final project. It will have interactive element
 
 For the presentation portion, I plan on having a singular slide with the main data points to be projected behind me on the screen. This will give me freedom to move away from the podium and not be stuck having to scroll through anything or have anything need to load. 
 
-[Back to Main Page](/README.md)
-[Part Two] (Coming Soon!)
+[Part Two](/finalproject_part2.md)
+
 [Part Three] (Coming Soon!)
+
+[Back to Main Page](/README.md)
