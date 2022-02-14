@@ -20,3 +20,5 @@ I really do need a job.
 
 ## Final Project
 [Part I](/finalproject_part1.md)
+
+[Part II](/finalproject_part2.md)
