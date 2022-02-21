@@ -16,7 +16,7 @@ The Climax is the a look at the larger implications of the arts vibrancy scores 
 The Call to Action is the subtitle of the project, "How YOU can help your community become more vibrant." It will open the question of how the person reading the article can make efforts to bring more vibrancy to their community, or help keep the vibrancy high.
 
 ### Conclusion
-The conclusion is the steps for the call to action. There is no "falling action" because I didn't want the reader to lose momentum. There will be 5-6 total ways, falling closely with the SMU Arts Vibrancy calculation categories: Arts Providers, Arts Dollars, Government Support, Socio-econimic, and Other Leisure.
+The conclusion is the steps for the call to action. There is no "falling action" because I didn't want the reader to lose momentum. There will be 5-6 total ways, falling closely with the SMU Arts Vibrancy calculation categories: Arts Providers, Arts Dollars, Government Support, Socio-economic, and Other Leisure.
 
 ## Wireframes
 
