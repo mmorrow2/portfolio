@@ -1,6 +1,6 @@
 # Part 2
 
-In typical fashion of a graduate student, I have changed my original project that was outlined in Part I. The title of the project is: "Arts Vibrancy In the United States" with the subtitle: "How YOU can help your community become more vibrant!" The audience is people who work, who want to work, or who are highly engaged in the visual and performing arts.
+In typical fashion of a graduate student, I have changed my original project that was outlined in Part I. The title of the new project is: "Arts Vibrancy In the United States" with the subtitle: "How YOU can help your community become more vibrant!" The audience is people who work, who want to work, or who are highly engaged in the visual and performing arts.
 Here is the outline for the new project:
 
 ### Intro
