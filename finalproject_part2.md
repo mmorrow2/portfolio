@@ -21,6 +21,9 @@ The conclusion is the steps for the call to action. There is no "falling action"
 ## Wireframes/Storyboards
 I have chosen to create this element in Shorthand. Click [here] to find my draft. 
 
+There is one data visualization that will not render in Shorthand, and I need to figure out what code to change to fix it. For now, I posted it below. 
+<iframe width="500" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="Arts Vibrancy Index" src="//carnegiemellon.maps.arcgis.com/apps/Embed/index.html?webmap=04a533cf9dca48968f31bfec870cf5ed&extent=-83.9941,37.1145,-71.3598,43.3712&zoom=true&previewImage=false&scale=true&disable_scroll=true&theme=light"></iframe>
+
 ## Research and Interviews
 
 
