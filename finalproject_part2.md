@@ -19,7 +19,7 @@ The Call to Action is the subtitle of the project, "How YOU can help your commun
 The conclusion is the steps for the call to action. There is no "falling action" because I didn't want the reader to lose momentum. There will be 5-6 total ways, falling closely with the SMU Arts Vibrancy calculation categories: Arts Providers, Arts Dollars, Government Support, Socio-economic, and Other Leisure.
 
 ## Wireframes/Storyboards
-I have chosen to create this element in Shorthand. Click [here] to find my draft. 
+I have chosen to create this element in Shorthand. Click [here](https://preview.shorthand.com/TPOI3rBVCld4ayiX) to find my draft. 
 
 This draft took awhile to reach. I knew going into the design what pieces of data I wanted to be visualized, but I often changed the type of graph from my original idea. I also found the way I showcased some of the non-numerical data to be lacking, and therefore went back through and created more interesting visuals for those. I haven't yet put in my theme, but I have found the color scheme I would like to use. It is a pre-packaged one from Flourish, but I find it easy to understand and manipulate.
 
