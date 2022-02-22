@@ -18,9 +18,8 @@ The Call to Action is the subtitle of the project, "How YOU can help your commun
 ### Conclusion
 The conclusion is the steps for the call to action. There is no "falling action" because I didn't want the reader to lose momentum. There will be 5-6 total ways, falling closely with the SMU Arts Vibrancy calculation categories: Arts Providers, Arts Dollars, Government Support, Socio-economic, and Other Leisure.
 
-## Wireframes
-
-## Storyboards
+## Wireframes/Storyboards
+I have chosen to create this element in Shorthand. Click [here] to find my draft. 
 
 ## Research and Interviews
 
