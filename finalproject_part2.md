@@ -23,6 +23,17 @@ I have chosen to create this element in Shorthand. Click [here](https://preview.
 
 This draft took awhile to reach. I knew going into the design what pieces of data I wanted to be visualized, but I often changed the type of graph from my original idea. I also found the way I showcased some of the non-numerical data to be lacking, and therefore went back through and created more interesting visuals for those. I haven't yet put in my theme, but I have found the color scheme I would like to use. It is a pre-packaged one from Flourish, but I find it easy to understand and manipulate.
 
+## User Research Protocol
+Target Audience: People who work, who want to work, or who are highly engaged in the visual and performing arts.
+Approach: I want to be able to find an array of people who work in the arts. Hopefully I can find people who are both up-and-coming artists/art workers and who are passionate about making a difference. I also want to be able to find people who have been in the industry a little bit longer, and get their feedback on how this research is actually seen in the field.
+Interview Script:
+1. Read through this and tell me the general theme from it.
+2. What would you change about the overall story?
+3. How often did you get confused?
+4. What places did you lose interest?
+5. What places did you gain interest?
+6. Were the visualizations clear and/or helpful?
+
 ## Interviews
 
 ### Interview 1
@@ -55,6 +66,8 @@ Would make the vibrancy scores in the three highlighted PA counties bigger/more 
 "I love the text support, and I think the story is mapped out really nicely."
 Need to keep the data colors consistent across the graphs.
 
+## Changes
+I need to play around with sizing and see how Shorthand functions a little more to get the right idea across. I also need to figure out how to fully explain the SMU DataArts Arts Vibrancy Index, because even people who have been in the field got a little tripped up by it. Consistency across colors is also needed, and I plan to change the "animals" theme to something more on brand. (The animals were a default.)
 
 [Part I](/finalproject_part1.md)
 
