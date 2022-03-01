@@ -71,6 +71,6 @@ I need to play around with sizing and see how Shorthand functions a little more 
 
 [Part I](/finalproject_part1.md)
 
-[Part III] (Coming Soon!)
+[Part III](/finalproject_part3.md)
 
 [Home Page](/README.md)
