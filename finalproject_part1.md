@@ -46,6 +46,6 @@ For the presentation portion, I plan on having a singular slide with the main da
 
 [Part Two](/finalproject_part2.md)
 
-[Part Three] (Coming Soon!)
+[Part Three](/finalproject_part3.md)
 
 [Back to Main Page](/README.md)
