@@ -22,3 +22,5 @@ I really do need a job.
 [Part I](/finalproject_part1.md)
 
 [Part II](/finalproject_part2.md)
+
+[Part III](/finalproject_part3.md)
